@@ -1,2 +1,2 @@
 # MRescue
-An app which help in reducing medical negligligence , medical frauds and other medical scams.
+An app which help in reducing medical negligligence , medical frauds and other medical scams and also somewhat like a linkedIn for Doctors
